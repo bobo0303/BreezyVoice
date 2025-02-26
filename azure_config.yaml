@@ -1,0 +1,4 @@
+API_KEY: "aa0ea7cf2cb140f8a2b821c89aa3d958"  
+AZURE_API_VERSION: "2024-02-15-preview"  
+AZURE_ENDPOINT: "https://prod-knowledge-navigator-aoai.openai.azure.com"  
+AZURE_DEPLOYMENT: "prod-knowledge-navigator-aoai-gpt-4o"  
