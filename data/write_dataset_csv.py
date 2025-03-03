@@ -17,6 +17,8 @@ with open(output_csv_path, 'w', newline='', encoding='utf-8') as csvfile:
     
     for speaker in speakers:  
         speaker_prompt_audio_filename = speaker  
+        # if speaker_prompt_audio_filename not in ["speaker002"]:
+        #     continue
         speaker_prompt_text_transcription = speakers[speaker]  
         for classes in data:  
             for index, text in enumerate(classes['text']):  
