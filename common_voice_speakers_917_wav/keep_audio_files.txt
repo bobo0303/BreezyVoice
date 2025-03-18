@@ -391,3 +391,15 @@
 /mnt/TCM_results/common_voice_zh-TW_17681345_4.wav
 /mnt/TCM_results/common_voice_zh-TW_24486083_320.wav
 /mnt/TCM_results/common_voice_zh-TW_17487984_361.wav
+/mnt/TCM_results/common_voice_zh-TW_27922759_266.wav
+/mnt/TCM_results/common_voice_zh-TW_17472794_104.wav
+/mnt/TCM_results/common_voice_zh-TW_17835521_104.wav
+/mnt/TCM_results/common_voice_zh-TW_17397721_200.wav
+/mnt/TCM_results/common_voice_zh-TW_18846212_297.wav
+/mnt/TCM_results/common_voice_zh-TW_35100776_189.wav
+/mnt/TCM_results/common_voice_zh-TW_19775579_328.wav
+/mnt/TCM_results/common_voice_zh-TW_17390432_130.wav
+/mnt/TCM_results/common_voice_zh-TW_17419105_267.wav
+/mnt/TCM_results/common_voice_zh-TW_19251025_38.wav
+/mnt/TCM_results/common_voice_zh-TW_21372024_395.wav
+/mnt/TCM_results/common_voice_zh-TW_17891037_337.wav
