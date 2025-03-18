@@ -7,8 +7,8 @@ audio/202*
 data/*.wav
 results/*
 G2PWModel
-APCL_data
-APCL_results
+APCL_data/*.wav
+APCL_results/*.wav
 common_voice_speakers_917_wav/*.wav
 TCM_results/*.wav
 common_voice_speakers_917_wav/TCM_data.csv

@@ -56,3 +56,5 @@
 /mnt/TCM_results/common_voice_zh-TW_28073684_212.wav
 /mnt/TCM_results/common_voice_zh-TW_21441243_272.wav
 /mnt/TCM_results/common_voice_zh-TW_19777977_160.wav
+/mnt/TCM_results/common_voice_zh-TW_17833990_93.wav
+/mnt/TCM_results/common_voice_zh-TW_19313315_114.wav
