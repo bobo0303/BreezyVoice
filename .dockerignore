@@ -1,0 +1,11 @@
+audio/id*
+csv
+test.py
+panding_audio.py
+*.csv
+.git  
+*.tmp  
+*.log  
+APCL_data/*.wav
+APCL_results/*.wav
+common_voice_speakers_917_wav/*.wav
