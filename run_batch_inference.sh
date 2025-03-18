@@ -6,7 +6,6 @@
 # OUTPUT_AUDIO_FOLDER="results"
 
 # APCL parameters
-<<<<<<< HEAD
 # CSV_FILE="APCL_data/APCL_dataset_S16_C49_P25.csv"
 # SPEAKER_PROMPT_AUDIO_FOLDER="data"
 # OUTPUT_AUDIO_FOLDER="APCL_results"
@@ -15,11 +14,6 @@
 CSV_FILE="common_voice_speakers_917_wav/TCM_data_random_3.csv"
 SPEAKER_PROMPT_AUDIO_FOLDER="common_voice_speakers_917_wav"
 OUTPUT_AUDIO_FOLDER="TCM_results"
-=======
-CSV_FILE="data/APCL_dataset_S16_C49_P25.csv"
-SPEAKER_PROMPT_AUDIO_FOLDER="data"
-OUTPUT_AUDIO_FOLDER="APCL_results"
->>>>>>> b1cb4b8610f5d263aec7f3311fc3ae3930b76f2e
 
 # Run the Python script with default parameters
 python batch_inference.py \
