@@ -6,7 +6,6 @@ app.yml
 audio/202*
 data/*.wav
 results/*
-<<<<<<< HEAD
 G2PWModel
 APCL_data/*.wav
 APCL_results/*.wav
@@ -14,10 +13,6 @@ common_voice_speakers_917_wav/*.wav
 TCM_results/*.wav
 common_voice_speakers_917_wav/TCM_data.csv
 common_voice_speakers_917_wav/TCM_data_random.csv
-=======
-APCL_results
-G2PWModel
->>>>>>> b1cb4b8610f5d263aec7f3311fc3ae3930b76f2e
 
 # Byte-compiled / optimized / DLL files  
 __pycache__/  
