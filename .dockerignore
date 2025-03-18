@@ -5,7 +5,11 @@ panding_audio.py
 *.csv
 .git  
 *.tmp  
+<<<<<<< HEAD
 *.log  
 APCL_data/*.wav
 APCL_results/*.wav
 common_voice_speakers_917_wav/*.wav
+=======
+*.log  
+>>>>>>> b1cb4b8610f5d263aec7f3311fc3ae3930b76f2e

@@ -403,3 +403,6 @@
 /mnt/TCM_results/common_voice_zh-TW_19251025_38.wav
 /mnt/TCM_results/common_voice_zh-TW_21372024_395.wav
 /mnt/TCM_results/common_voice_zh-TW_17891037_337.wav
+/mnt/TCM_results/common_voice_zh-TW_17481209_46.wav
+/mnt/TCM_results/common_voice_zh-TW_30336534_69.wav
+/mnt/TCM_results/common_voice_zh-TW_31250135_117.wav
