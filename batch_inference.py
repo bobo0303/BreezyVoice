@@ -69,7 +69,6 @@ def main():
         speaker_prompt_audio_folder=args.speaker_prompt_audio_folder,
         output_audio_folder=args.output_audio_folder,
         model = (cosyvoice, bopomofo_converter),
-
     )
 
 if __name__ == "__main__":

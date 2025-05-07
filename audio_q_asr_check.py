@@ -7,7 +7,6 @@ from opencc import OpenCC
   
 cc = OpenCC('s2t')  
   
-<<<<<<< HEAD
 file_path = '/mnt/common_voice_speakers_917_wav/data.json'  
 with open(file_path, 'r', encoding='utf-8') as file:  
     data = json.load(file)  
@@ -15,15 +14,6 @@ with open(file_path, 'r', encoding='utf-8') as file:
 audio_directory = '/mnt/TCM_results/'  
 keep_file = '/mnt/common_voice_speakers_917_wav/keep_audio_files.txt'  
 delete_file = '/mnt/common_voice_speakers_917_wav/delete_audio_files.txt'  
-=======
-file_path = '/mnt/data/data.json'  
-with open(file_path, 'r', encoding='utf-8') as file:  
-    data = json.load(file)  
-  
-audio_directory = '/mnt/APCL_results/'  
-keep_file = '/mnt/data/keep_audio_files.txt'  
-delete_file = '/mnt/data/delete_audio_files.txt'  
->>>>>>> b1cb4b8610f5d263aec7f3311fc3ae3930b76f2e
   
 api_url = 'http://localhost:80/vst_translate'  
   

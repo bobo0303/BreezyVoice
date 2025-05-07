@@ -34,7 +34,7 @@ def transcribe_audio(file_path):
             'sample_rate': 16000,  
             'o_lang': 'zh',  
             't_lang': 'zh',  
-            'timeout': 15  
+            'timeout': 30  
         }  
         response = requests.post(api_url, files=files, params=payload)  
         if response.status_code == 200:  

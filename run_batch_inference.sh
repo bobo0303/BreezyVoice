@@ -11,9 +11,9 @@
 # OUTPUT_AUDIO_FOLDER="APCL_results"
 
 # TCM (traditional chinese medicine) parameters
-CSV_FILE="common_voice_speakers_917_wav/TCM_data_random_3.csv"
-SPEAKER_PROMPT_AUDIO_FOLDER="common_voice_speakers_917_wav"
-OUTPUT_AUDIO_FOLDER="TCM_results"
+CSV_FILE="123.csv"
+SPEAKER_PROMPT_AUDIO_FOLDER="APCL_data"
+OUTPUT_AUDIO_FOLDER="./"
 
 # Run the Python script with default parameters
 python batch_inference.py \
